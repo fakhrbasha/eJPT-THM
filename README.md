@@ -33,6 +33,16 @@
   <dt>Introduction to Cyber Security </dt>
   <dd>- <a href="https://tryhackme.com/module/introduction-to-cyber-security">Hack Them </a></dd>
 </dl>
+<h2>Introduction to Offensive Security</h2>
+<dl>
+  <dt>Introduction to Offensive Security </dt>
+  <dd>- <a href="https://tryhackme.com/module/introduction-to-offensive-security">Hack Them </a></dd>
+</dl>
+<h2>Introduction to Defensive Security</h2>
+<dl>
+  <dt>Introduction to Defensive Security </dt>
+  <dd>- <a href="https://tryhackme.com/module/introduction-to-defensive-security">Hack Them </a></dd>
+</dl>
 <h2>Network</h2>
 <dl>
   <dt>Network Fundamentals </dt>
