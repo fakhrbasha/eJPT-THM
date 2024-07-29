@@ -17,7 +17,7 @@
   <li>Network Attack</li>
 </ul>
 
-# Try Hack Me Labs : 
+# Try Hack Me Labs 
 <h2>Network</h2>
 <dl>
   <dt>Network Fundamentals </dt>
@@ -80,4 +80,9 @@
   <dd>- <a href="https://tryhackme.com/r/room/layer2">Hack Them </a></dd>
   <dt>Metasploit </dt>
   <dd>- <a href="https://tryhackme.com/module/metasploit">Hack Them </a></dd>
+</dl>
+<h2>Privilege Escalation</h2>
+<dl>
+  <dt>Privilege Escalation</dt>
+  <dd>- <a href="https://tryhackme.com/module/privilege-escalation">Hack Them </a></dd>
 </dl>
