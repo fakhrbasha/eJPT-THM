@@ -18,6 +18,21 @@
 </ul>
 
 # Try Hack Me Labs 
+<h2>Linux </h2>
+<dl>
+  <dt>Linux Fundamentals</dt>
+  <dd>- <a href="https://tryhackme.com/module/linux-fundamentals">Hack Them </a></dd>
+</dl>
+<h2>Windows </h2>
+<dl>
+  <dt>Windows Fundamentals</dt>
+  <dd>- <a href="https://tryhackme.com/module/windows-fundamentals">Hack Them </a></dd>
+</dl>
+<h2>Introduction to Cyber Security</h2>
+<dl>
+  <dt>Introduction to Cyber Security </dt>
+  <dd>- <a href="https://tryhackme.com/module/introduction-to-cyber-security">Hack Them </a></dd>
+</dl>
 <h2>Network</h2>
 <dl>
   <dt>Network Fundamentals </dt>
